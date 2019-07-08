@@ -1,5 +1,5 @@
 # The Project
-Temperature is a DataViz Analysis, the aim is generate some insigths about (To document)
+Temperature is a DataViz Analysis using Power BI and D3, the aim is generate some insigths about (To document)
 
 #### Demo: https://bit.ly/2R8u6R9
 
