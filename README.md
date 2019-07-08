@@ -20,3 +20,9 @@ Two charts in this .pbix file use D3, for that, use the embedded D3 Object for P
 
 (To document)
 
+## Aditional information:
+This visual analytics is based on Tamara's Framework, for additional information visit:
+
+- https://docs.google.com/presentation/d/17_DAB7lBwdT7mvtbqfm-SAggQLYfl7gEvCxDY8ZH8ws/edit?usp=sharing
+
+- https://www.cs.ubc.ca/~tmm/talks.html#minicourse14
