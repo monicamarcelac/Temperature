@@ -1,13 +1,12 @@
 # The Project
 Temperature is a DataViz Analysis, the aim is generate some insigths about (To document)
 
-## Demo
-https://bit.ly/2R8u6R9
+#### Demo: https://bit.ly/2R8u6R9
 
 ## Data
 Data Source:
 
-## Code D3 Objects
+## D3 Objects - Code 
 Two charts in this .pbix file use D3, for that, use the embedded D3 Object for Power BI
 
 - D3.js Visual: https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381354
